@@ -1,0 +1,28 @@
+# secrets
+*.key
+*.pem
+.env
+.env.*
+
+# logs
+logs
+*.log
+
+# node
+node_modules
+
+# build cache
+dist
+target
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode
+.idea
+
+# source code safety
+src
+src-tauri
