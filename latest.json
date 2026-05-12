@@ -3,7 +3,7 @@
 
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQ0REJFQzU1M0I1MzVGNkMKUldSc1gxTTdWZXpiMUVwMVJhd2pOTTUrd21ZNlc0dk80T09vNDlkYTN3SmxiT3lXOC9uK3ZuUFgK",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1gxTTdWZXpiMUhUdzJCZTIzOEljNmFGdnA3TTd4WFpwNVlGMTJhUllOZm5TVGppQTlWdXZSREFSVE9ITTNWWXh6SmdVZllvZXRudmswc01aWTVTcHAvVmVKMjV4aXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk5Mzc5CWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuNF94NjQtc2V0dXAuZXhlCk5QRjZWcm8xSU5UOU9tbjZxejRXRXhoMHVieUptR1BFSkYwWHBSSS9RZmN5SWp4RU9OVTRJMGlITS94RWdDbVI0amM3T20vYmh6dWNsOENlU3JZTER3PT0K",
       "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.4_x64-setup.exe"
     }
   }
