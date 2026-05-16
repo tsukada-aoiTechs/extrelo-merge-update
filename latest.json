@@ -1,9 +1,9 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1gxTTdWZXpiMUhUdzJCZTIzOEljNmFGdnA3TTd4WFpwNVlGMTJhUllOZm5TVGppQTlWdXZSREFSVE9ITTNWWXh6SmdVZllvZXRudmswc01aWTVTcHAvVmVKMjV4aXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTk5Mzc5CWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuNF94NjQtc2V0dXAuZXhlCk5QRjZWcm8xSU5UOU9tbjZxejRXRXhoMHVieUptR1BFSkYwWHBSSS9RZmN5SWp4RU9OVTRJMGlITS94RWdDbVI0amM3T20vYmh6dWNsOENlU3JZTER3PT0K",
-      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSUY2WVdlcVE4M24ybTlUMUNSaWcyc24vWGl6emtCRlkxendlU1dFVzJmWFRBeGpNZ3g5RW8wRmVCWjA3V2I1Njg5allJV1VjdGJ4ajFDYW1RdjJqcWNDOFZ2c0pIL3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTI0NjAyCWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuMF94NjQtc2V0dXAuZXhlCldXbWhYNGdwb05JZWZuc3RoVkRHby9kTllBaFUyOUFGSmxkQmtWZmdzYjV1eGZ2bjZxOVZNMmY2bHljcVJuQkZmVHE1OXpQTjcyWWlLN09PditGbUJRPT0K",
+      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.0_x64-setup.exe"
     }
   }
 }
