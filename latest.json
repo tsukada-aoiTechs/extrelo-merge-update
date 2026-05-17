@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "V0.1.1: Terms contact email update, duplicate header warning, encoding safety warnings, in-app log viewer, and update details display.",
-  "pub_date": "2026-05-17T04:53:26Z",
+  "version": "0.1.2",
+  "notes": "V0.1.2: Shows a post-update release notes modal in the app and removes the in-app log viewer for security.",
+  "pub_date": "2026-05-17T09:07:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSUY2WVdlcVE4M2xBZ2JsQlV0MEJYM2FGVnZWTEY2c2RUSGNMdHh6RGNHb1JiaDNPWG1CVDFuQ2VldG13YmlXM1N0akE1aHZVTS81dU9DQVUrYXlYS1N0RzlpNWNGcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTkzNjA2CWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuMV94NjQtc2V0dXAuZXhlCk02WC9SWC9WempXVHpzeXNEN3RTTHVoMzFPVFdQTDZZT3E0TmhOcHpaa0lKOW11L1NvUFhaTmJiTk9xOFNjVHR4aXRKWDkveWVmK2wzUlp6OXFnUkFRPT0K",
-      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSUY2WVdlcVE4M3FZNUFCOURZYkIxU0t3ajVKSDdIalJLazV6WU9jc29idm9ZVXhMcGpoZzFGQzAyYkpxZUdNQlppeDBFcGtrcTJ1dmlBQ0dJeSs3THR0cUdFMDFvVVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MDA5ODU4CWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuMl94NjQtc2V0dXAuZXhlCk5XQmVZeGtUWWpOZTBuajRNRDdhS0x6dXRUQlhMWTVhN0xId2lJMjJLa2txUnF5Q3cwdndJeUNWL0p5REhwL09VU2lZOHd2QnpNS1RHTCtNRlhQaURBPT0K",
+      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.2_x64-setup.exe"
     }
   }
 }
