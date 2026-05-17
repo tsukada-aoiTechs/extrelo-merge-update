@@ -1,9 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "notes": "V0.1.1: Terms contact email update, duplicate header warning, encoding safety warnings, in-app log viewer, and update details display.",
+  "pub_date": "2026-05-17T04:53:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSUY2WVdlcVE4M21FM0I3NUJkVURydlhMdHloVGZOYkI1bWtQdjR2aTVlNXVJZTlNeTcxN2dQQUN2UDljSUx2aDBhbWYzbTFDbkI5MzU1eHFiMkRmSDgveFVWUEdwQ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTQwNjUzCWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuMF94NjQtc2V0dXAuZXhlCllZZ0g1bDBKMW5sVEU5NkhsR3BRZUYxTktrR0piQmpRSmRyM0EzL2svQjk5SVVoeFdCelpiZHNUc3V6Y3hqWVNtR1dhM2FnR29LZmkyS0xvTTFaSERnPT0K",
-      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSUY2WVdlcVE4M2xBZ2JsQlV0MEJYM2FGVnZWTEY2c2RUSGNMdHh6RGNHb1JiaDNPWG1CVDFuQ2VldG13YmlXM1N0akE1aHZVTS81dU9DQVUrYXlYS1N0RzlpNWNGcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTkzNjA2CWZpbGU6RXh0cmVsbyBNZXJnZV8wLjEuMV94NjQtc2V0dXAuZXhlCk02WC9SWC9WempXVHpzeXNEN3RTTHVoMzFPVFdQTDZZT3E0TmhOcHpaa0lKOW11L1NvUFhaTmJiTk9xOFNjVHR4aXRKWDkveWVmK2wzUlp6OXFnUkFRPT0K",
+      "url": "https://raw.githubusercontent.com/tsukada-aoiTechs/extrelo-merge-update/main/Extrelo%20Merge_0.1.1_x64-setup.exe"
     }
   }
 }
